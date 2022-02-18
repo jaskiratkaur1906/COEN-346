@@ -1,0 +1,3 @@
+coen346User
+hostname
+/Users/liampereira/Desktop/Sample
